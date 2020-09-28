@@ -940,9 +940,50 @@ textarea {
 --------------------------------------------- */
 .site-title {
   font-size: 8em;
+  background-color: #2ff8c6;
 }
 
 .site-title a {
-  color: red;
+  color: blue;
+  text-decoration: none;
+}
+
+.site-description {
+  font-size: 4em;
+  color: lightslategray;
+  background-color: #2ff8c6;
+}
+
+.site-branding {
+  background-color: lightseagreen;
+}
+
+body {
+  background-color: lightseagreen;
+}
+
+article {
+  background-color: #2ff8c6;
+}
+
+nav {
+  font-size: 3em;
+  background-color: #2ff8c6;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.site-title {
+  text-align: center;
+}
+
+.site-description {
+  text-align: center;
+}
+
+nav a {
+  margin-left: 170px;
 }
 /*# sourceMappingURL=style.css.map */

@@ -1,6 +1,33 @@
 .site-title{
     font-size: 8em;
     a{    
-        color: red;
+        color: blue;
+        text-decoration: none;
+    }
+    background-color: rgb(47, 248, 198);
 }
+
+.site-description{
+    font-size: 4em;
+    color: lightslategray;background-color: rgb(47, 248, 198);
+}
+
+.site-branding{
+    background-color: lightseagreen;
+}
+
+body{
+    background-color: lightseagreen;
+}
+
+article{
+    background-color: rgb(47, 248, 198);
+}
+
+nav {
+    font-size: 3em;
+    background-color: rgb(47, 248, 198);
+    a{
+        text-decoration: none;
+    }
 }
