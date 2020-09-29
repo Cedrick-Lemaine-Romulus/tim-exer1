@@ -989,7 +989,8 @@ nav a a:visited {
 }
 
 article {
-  height: 40em;
+  max-height: 60em;
+  min-height: 40em;
 }
 
 footer {
