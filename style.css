@@ -954,10 +954,6 @@ textarea {
   background-color: #2ff8c6;
 }
 
-.site-branding {
-  background-color: lightseagreen;
-}
-
 body {
   background-color: lightseagreen;
 }
@@ -985,5 +981,24 @@ nav a {
 
 nav a {
   margin-left: 170px;
+  color: grey;
+}
+
+nav a a:visited {
+  color: cornflowerblue;
+}
+
+article {
+  height: 40em;
+}
+
+footer {
+  font-size: 2em;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer span {
+  display: none;
 }
 /*# sourceMappingURL=style.css.map */

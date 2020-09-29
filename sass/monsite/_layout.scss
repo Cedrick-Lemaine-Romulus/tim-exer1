@@ -9,5 +9,13 @@
 nav {
     a{
         margin-left: 170px;
+        color: grey;
+        a:visited{
+            color: cornflowerblue;
+        }
     }
+}
+
+article{
+    height: 40em;
 }
